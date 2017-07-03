@@ -1,7 +1,7 @@
 # Framework-TechStack
 开源框架与技术栈记录，便于查找。
 
-##### 开源库(A)
+### 开源库(A)
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 ```
@@ -123,7 +123,7 @@ iOS缓存控件，支持哈希，队列和时间池。
 ```
 iOS预加载Web页面方案。
 ```
-##### 开源库(B)
+### 开源库(B)
 * [Emoji](https://github.com/limejelly/Emoji)
 ```
 常用的 Emoji 表情。
@@ -163,7 +163,7 @@ Web 进度条。
 热更新。
 ```
 
-##### 开源库(C)
+### 开源库(C)
 * [Samurai-Native](https://github.com/hackers-painters/samurai-native/blob/master/README_CN.md)
 ```
 使用标准Web开发技术 (HTML+CSS) 构建基于私有浏览器内核的原生应用。已支持iOS 。
@@ -197,7 +197,7 @@ GitHub上最全的前端资源汇总。
 ```
 
 
-##### 开源库(D)
+### 开源库(D)
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)
 ```
 蓝牙开发。
@@ -212,10 +212,11 @@ GitHub上最全的前端资源汇总。
 ```
 iOS核心动画高级技巧。
 ```
+* [轻量JSON对象转换库JSONCore](https://github.com/maintoco/JSONCore)
+* [TODBModel——基于FMDB的模型化数据库](http://www.code4app.com/thread-12597-1-1.html)
+* [Runtime的实际使用场景](http://www.code4app.com/thread-13995-1-1.html)
 
-##### 开源库(E)
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-* [react-native](https://github.com/facebook/react-native)
+### 开源库(E)
 * [AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit)
 * [YYKit](https://github.com/ibireme/YYKit)
 * [node](https://github.com/nodejs/node)
@@ -227,7 +228,7 @@ iOS核心动画高级技巧。
 * [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)
 * [JLChart](https://github.com/JimmyStudio/JLChart)
 
-##### 开源库(F)
+### 开源库(F)
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
 * [tapkulibrary](https://github.com/devinross/tapkulibrary)
@@ -240,3 +241,53 @@ iOS核心动画高级技巧。
 * [Alamofire](https://github.com/Alamofire/Alamofire)
 * [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+
+### 技术聚集区(E)
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+* [react-native](https://github.com/facebook/react-native)
+* [Swift-HTML-RN 学习平台](http://www.hangge.com/index.html)
+* [CocoaChina](http://www.cocoachina.com)
+
+```
+苹果产品与iOS开发的中文社区。
+```
+
+* [Code4App](http://code4app.com)
+```
+大量实例代码的聚集地。
+```
+
+* [xfenglin](http://xfenglin.com/ios.html)
+
+```
+一些实例代码与讲解。
+```
+
+* [王巍的博客](https://onevcat.com)
+* [唐巧的博客](http://blog.devtang.com)
+* [ObjC 中国](https://objccn.io)
+
+* [github](https://github.com/explore)
+```
+代码托管，当然也可以保存笔记。
+```
+
+* [stackoverflow](https://stackoverflow.com)
+```
+可以找到你遇到的绝大部分问题。
+```
+### 常用工具类
+* [Git - 猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
+* [使用终端命令行将本地项目上传到Github](http://blog.csdn.net/iosbird/article/details/53784815)
+* [MAC终端下常用Git命令](http://www.cnblogs.com/gaizuojia/p/4903867.html)
+* [SVN - CornerStone使用教程](http://www.tiecou.com/854.html)
+```
+代码版本控制。
+```
+
+### 工具资源保存
+* [GIT - SourceTree](https://www.sourcetreeapp.com)
+* [SVN - CornerStone]()
+* [Photoshop]()
+* [MarkMan]()
+* [Atom]()
