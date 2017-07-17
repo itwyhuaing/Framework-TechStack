@@ -266,6 +266,7 @@ iOS核心动画高级技巧。
 * [王巍的博客](https://onevcat.com)
 * [唐巧的博客](http://blog.devtang.com)
 * [ObjC 中国](https://objccn.io)
+* [YYKit 作者文章](http://blog.ibireme.com/archive/)
 
 * [github](https://github.com/explore)
 ```
