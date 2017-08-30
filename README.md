@@ -44,19 +44,22 @@
 ```
 Json 数据解析。
 ```
-
-* [TFhpple](https://github.com/cczufish/TFhpple)
+* [hpple](https://github.com/topfunky/hpple)
+* [ElementParser](https://github.com/Objective3/ElementParser)
 * [HTMLParser](https://github.com/volodg/HTMLParser)
+* [TFhpple](https://github.com/cczufish/TFhpple)
+
 ```
 HTML 解析。
 ```
 
-* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) [比较好的中文文档](https://github.com/ios122/MagicalRecord)
 ```
 基于 Core Data 的封装，比较好用。
 ```
 * [JRDB](https://github.com/scubers/JRDB)
 * [SQLight](https://github.com/gaosboy/SQLight)
+* [LLFMDB](https://github.com/liuniuliuniu/LLFMDB)
 ```
 基于 FMDB 的封装，比较好用 (FMDB，基于SQLite数据库)。
 ```
@@ -87,6 +90,10 @@ iOS缓存控件，支持哈希，队列和时间池。
 键盘。
 ```
 
+* [TYPagerController](https://github.com/12207480/TYPagerController)
+```
+分页控制器，滑动视图导航。
+```
 
 * [XBScrollPageController](https://github.com/changjianfeishui/XBScrollPageController)
 ```
@@ -118,11 +125,17 @@ iOS缓存控件，支持哈希，队列和时间池。
 无限循环图片、文字轮播器。
 ```
 
+* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+```
+JS 与 iOS 原生代码交互。
+```
 
 * [STMURLCache](https://github.com/ming1016/STMURLCache)
 ```
 iOS预加载Web页面方案。
 ```
+
+
 ### 开源库(B)
 * [Emoji](https://github.com/limejelly/Emoji)
 ```
@@ -267,6 +280,7 @@ iOS核心动画高级技巧。
 * [唐巧的博客](http://blog.devtang.com)
 * [ObjC 中国](https://objccn.io)
 * [YYKit 作者文章](http://blog.ibireme.com/archive/)
+* [cocoadocs-优秀库文档介绍](http://cocoadocs.org/docsets/)
 
 * [github](https://github.com/explore)
 ```
