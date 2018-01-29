@@ -28,11 +28,9 @@
 ```
 
 
-* Masonry 与 SnapKit
-
-| OC | Swift |
-| [Masonry](https://github.com/SnapKit/Masonry)  | [SnapKit](https://github.com/SnapKit/SnapKit)       |
+* [Masonry](https://github.com/SnapKit/Masonry)
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
+* [SnapKit](https://github.com/SnapKit/SnapKit)   Masonry 的 swift 版本。
 ```
 约束。
 ```
