@@ -10,6 +10,7 @@
 
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* [Alamofire](https://github.com/Alamofire/Alamofire) AFNetworking 的 swift 版本。
 ```
 网络请求。
 ```
