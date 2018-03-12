@@ -284,6 +284,7 @@ iOS核心动画高级技巧。
 * [YYKit 作者文章](http://blog.ibireme.com/archive/)
 * [cocoadocs-优秀库文档介绍](http://cocoadocs.org/docsets/)
 * [iOS Core Animation: Advanced Techniques中文译本](https://zsisme.gitbooks.io/ios-/content/)
+* [WeRead团队博客](http://wereadteam.github.io/archives/)  微信读书团队部分技术方案
 
 * [github](https://github.com/explore)
 ```
