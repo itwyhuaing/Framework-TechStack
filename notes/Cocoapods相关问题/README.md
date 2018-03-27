@@ -30,3 +30,4 @@
 * gem sources  -a https://ruby.taobao.org/      添加源
 * sudo gem update --system                      gem太老时，用于升级gem 
 * sudo gem install cocoapods                    安装CocoaPods
+* pod repo update                               [快速更新 - 本地资源库](https://www.jianshu.com/p/1d058d224cad)
