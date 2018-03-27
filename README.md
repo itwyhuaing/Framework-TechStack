@@ -301,6 +301,7 @@ iOS核心动画高级技巧。
 * [Cocoapods 卸载、安装、常用终端命令](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/Cocoapods相关问题)
 * [coedeReview 使用](https://github.com/itwyhuaing/Framework-TechStack/blob/master/notes/CodeReview配置与部分操作记录/CodeReview配置与部分操作记录.md)
 * [appium 配置及使用](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/appium%20配置及使用)
+* [Git使用](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/Git使用/Git%20SubModule配置)
 
 
 
