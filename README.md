@@ -296,24 +296,6 @@ iOS核心动画高级技巧。
 可以找到你遇到的绝大部分问题。
 ```
 
-### 个人笔记
-
-* [Cocoapods 卸载、安装、常用终端命令](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/Cocoapods相关问题)
-* [coedeReview 使用](https://github.com/itwyhuaing/Framework-TechStack/blob/master/notes/CodeReview配置与部分操作记录/CodeReview配置与部分操作记录.md)
-* [appium 配置及使用](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/appium%20配置及使用)
-* [Git使用](https://github.com/itwyhuaing/Framework-TechStack/tree/master/notes/Git使用/Git%20SubModule配置)
-
-
-
-### 常用工具类
-* [Git - 猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
-* [使用终端命令行将本地项目上传到Github](http://blog.csdn.net/iosbird/article/details/53784815)
-* [MAC终端下常用Git命令](http://www.cnblogs.com/gaizuojia/p/4903867.html)
-* [SVN - CornerStone使用教程](http://www.tiecou.com/854.html)
-```
-代码版本控制。
-```
-
 ### 工具资源保存
 * [GIT - SourceTree](https://www.sourcetreeapp.com)
 * [SVN - CornerStone]()
