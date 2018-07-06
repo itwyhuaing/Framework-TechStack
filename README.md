@@ -127,6 +127,11 @@ iOS缓存控件，支持哈希，队列和时间池。
 无限循环图片、文字轮播器。
 ```
 
+* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
+```
+自定义可编辑 cell 。
+```
+
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 ```
 JS 与 iOS 原生代码交互。
