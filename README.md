@@ -107,10 +107,6 @@ iOS缓存控件，支持哈希，队列和时间池。
 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能。
 ```
 
-* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
-```
-滑动可编辑 TableviewCell 。
-```
 
 * [RESideMenu](https://github.com/romaonthego/RESideMenu)
 ```
@@ -182,6 +178,12 @@ Web 进度条。
 ```
 热更新。
 ```
+
+* [MLeaksFinder](https://github.com/Tencent/MLeaksFinder)  
+```
+腾讯出品 ： 精准 iOS 内存泄露检测工具
+```
+
 
 ### 开源库(C)
 * [Samurai-Native](https://github.com/hackers-painters/samurai-native/blob/master/README_CN.md)
