@@ -97,6 +97,16 @@ iOS缓存控件，支持哈希，队列和时间池。
 分页控制器，滑动视图导航。
 ```
 
+* [HVScrollView](https://github.com/SPStore/HVScrollView)
+```
+分页/滚动 联动思路剖析。
+```
+
+* [Linkage](https://github.com/leejayID/Linkage)
+```
+两个 TableView 之间的联动，TableView 与 CollectionView 之间的联动。
+```
+
 * [XBScrollPageController](https://github.com/changjianfeishui/XBScrollPageController)
 ```
 分页控制器。
