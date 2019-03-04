@@ -50,7 +50,6 @@ Json 数据解析。
 * [ElementParser](https://github.com/Objective3/ElementParser)
 * [HTMLParser](https://github.com/volodg/HTMLParser)
 * [TFhpple](https://github.com/cczufish/TFhpple)
-
 ```
 HTML 解析。
 ```
@@ -66,12 +65,10 @@ HTML 解析。
 基于 FMDB 的封装，比较好用 (FMDB，基于SQLite数据库)。
 ```
 
-
 * [kache](https://github.com/gaosboy/kache)
 ```
 iOS缓存控件，支持哈希，队列和时间池。
 ```
-
 
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 * [MMProgressHUD](https://github.com/mutualmobile/MMProgressHUD)
@@ -148,6 +145,10 @@ JS 与 iOS 原生代码交互。
 iOS预加载Web页面方案。
 ```
 
+* [QiCardView](https://github.com/QiShare/QiCardView)
+```
+卡片滑动效果
+```
 
 ### 开源库(B)
 * [Emoji](https://github.com/limejelly/Emoji)
