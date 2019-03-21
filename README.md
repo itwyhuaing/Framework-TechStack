@@ -38,11 +38,10 @@
 
 
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)
-* [JSONModel](https://github.com/jsonmodel/jsonmodel)
-* [JSONKit](https://github.com/johnezang/JSONKit)
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+* [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 * [Gloss](https://github.com/hkellaway/Gloss)
+* [JSONExport - 属性导出工具](https://github.com/Ahmed-Ali/JSONExport)
 ```
 Json 数据解析。
 ```
