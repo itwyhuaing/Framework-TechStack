@@ -60,6 +60,7 @@ HTML 解析。
 * [JRDB](https://github.com/scubers/JRDB)
 * [SQLight](https://github.com/gaosboy/SQLight)
 * [LLFMDB](https://github.com/liuniuliuniu/LLFMDB)
+* [FMDBHandler](https://github.com/JudeGGT/FMDBHandler)
 ```
 基于 FMDB 的封装，比较好用 (FMDB，基于SQLite数据库)。
 ```
